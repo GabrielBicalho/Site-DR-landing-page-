@@ -1,0 +1,33 @@
+.main-bg{
+    background-image: url(../img/fundo.png);
+    background-size: cover;
+    background-position: center center;
+}
+
+.white-bg{
+    background: rgba(236, 236, 236, 0.201);
+}
+
+.main-content{
+    max-width: 120rem;
+    margin: 0 auto;
+    padding: 8.5rem 3rem;
+}
+
+.main-content h1, p{
+    color: rgb(11, 10, 10);
+}
+
+.section {
+    min-height: 100vh;
+
+}
+
+.menu-spacing{
+    height: 65px;
+}
+
+div.full-width{
+    width: 100%;
+    flex: 1 1 100%;
+}
